@@ -1,0 +1,4 @@
+print("Hoşgeldiniz")
+k=int("input(Karenin Bir Kenarını Giriniz:"))
+s=k*4
+print(s)
